@@ -1,0 +1,13 @@
+# Flutter runtime dependencies (from pubspec.yaml)
+cupertino_icons: ^1.0.8
+get: ^4.6.6
+shared_preferences: ^2.3.2
+http: ^1.2.2
+fluttertoast: ^8.2.8
+image: ^4.2.0
+camerawesome: ^2.0.0
+flutter_typeahead: ^5.2.0
+
+# Flutter dev dependencies (from pubspec.yaml)
+flutter_test: sdk:flutter
+flutter_lints: ^4.0.0
